@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fcfcfc</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#00ade4</color>
+    <color name="blue">#00ade4</color>
+
+    <color name="blue_clr">#00ade4</color>
+    <color name="blue_press_clr">#8042b9e8</color>
+    <color name="bg_fc_clr">#fcfcfc</color>
+    <color name="bg_f0_clr">#fafafa</color>
+    <color name="text_clr">#252525</color>
+    <color name="text2_clr">#adadad</color>
+    <color name="item_bg_color">#70ffffff</color>
+
+    <color name="gray_clr">#b3b3b3</color>
+    <color name="white_clr">#ffffff</color>
+    <color name="black_clr">#000000</color>
+
+    <!--reds-->
+
+    <!-- pinks -->
+
+    <!-- purples -->
+
+    <!-- deep purples -->
+
+    <!-- indigo -->
+
+    <!--blue-->
+    <color name="md_blue_400">#42A5F5</color>
+    <color name="md_blue_500">#2196F3</color>
+
+    <!-- light blue-->
+
+    <!-- cyan -->
+
+    <!-- teal -->
+
+    <!-- green -->
+    <color name="md_green_500">#4CAF50</color>
+
+    <!--light green-->
+
+    <!-- lime-->
+
+    <!--yellow -->
+
+    <!--amber-->
+
+    <!--orange-->
+    <color name="md_orange_500">#FF9800</color>
+
+    <!--deep orange-->
+
+    <!--brown -->
+
+    <!--grey-->
+    <color name="md_grey_100">#F5F5F5</color>
+    <color name="md_grey_500">#9E9E9E</color>
+    <color name="md_white_1000">#ffffff</color>
+
+    <!--blue grey-->
+</resources>
